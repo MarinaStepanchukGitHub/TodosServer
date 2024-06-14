@@ -1,0 +1,10 @@
+{
+    "todos": [
+        {
+            "id":1,
+            "description": "Самая классная задача",
+            "status": "todo",
+            "isFavourites": true
+        }
+    ]
+}
